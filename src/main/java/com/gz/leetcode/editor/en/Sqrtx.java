@@ -1,4 +1,4 @@
-package com.mmal.concurrency.leetcode;
+package com.gz.leetcode.editor.en;
 
 /**69. x 的平方根
  * 实现 int sqrt(int x) 函数。

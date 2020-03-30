@@ -1,4 +1,4 @@
-package com.mmal.concurrency.leetcode;
+package com.gz.leetcode.editor.en;
 
 /**
  * 141. 环形链表

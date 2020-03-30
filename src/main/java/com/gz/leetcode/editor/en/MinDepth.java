@@ -1,4 +1,4 @@
-package com.mmal.concurrency.leetcode;
+package com.gz.leetcode.editor.en;
 
 /**
  * 给定一个二叉树，找出其最小深度。

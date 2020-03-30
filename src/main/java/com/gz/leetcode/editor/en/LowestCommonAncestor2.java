@@ -1,4 +1,4 @@
-package com.mmal.concurrency.leetcode;
+package com.gz.leetcode.editor.en;
 
 /**
  * 235. 二叉搜索树的最近公共祖先

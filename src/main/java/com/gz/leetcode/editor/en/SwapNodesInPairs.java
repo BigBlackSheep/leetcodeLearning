@@ -1,4 +1,4 @@
-package com.mmal.concurrency.leetcode;
+package com.gz.leetcode.editor.en;
 
 /**
  * https://leetcode-cn.com/problems/swap-nodes-in-pairs/
